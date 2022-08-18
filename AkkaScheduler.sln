@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaScheduler", "AkkaScheduler.csproj", "{BC190D46-5CEB-4F99-B1D4-ECFBD7B2647A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC190D46-5CEB-4F99-B1D4-ECFBD7B2647A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC190D46-5CEB-4F99-B1D4-ECFBD7B2647A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC190D46-5CEB-4F99-B1D4-ECFBD7B2647A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC190D46-5CEB-4F99-B1D4-ECFBD7B2647A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D198071D-43CB-4E13-9AD9-1BDE7FBB1A4A}
+	EndGlobalSection
+EndGlobal
